@@ -8,7 +8,7 @@ C='\e[01;36m'	# CYAN
 W='\e[01;37m'	# WHITE
 N='\e[00;37;40m' # NEUTRAL
 
-function setes(){
+function setres(){
     echo -e "$C Set Resolusi"
     sleep 0.5
     wm size 1080x2340
